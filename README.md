@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ## Execution:
 -	Clone this repository using
 ```
-git clone https://github.com/gaurav9808/carwebsite
+git clone https://github.com/gaurav9808/car_ecommerce
 ```
 **OR**
 Zip Download the Repository and Extract it's contents.
